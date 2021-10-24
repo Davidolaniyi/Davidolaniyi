@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davidolaniyi
 - 👀 I’m interested in ...  Front-End Web Development Projects
 - 🌱 I’m currently learning ...Tailwind CSS and REACT JS
-- 💞️ I’m looking to collaborate on ...Web Projects(Front-End for now. I'll be full-stack soom)
+- 💞️ I’m looking to collaborate on ...Web Projects(Front-End for now. I'll be full-stack soon)
 - 📫 How to reach me ...via E-mail: devdavidinv@gmail.com
 
 <!---
